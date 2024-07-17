@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #555;
+    background-color: #ccc;
 }
 
 nav {
@@ -18,7 +18,7 @@ nav {
     display: flex;
     align-items: center;
     height: 80px;
-    padding: 240px 20px;
+    padding: 20px 40px;
 }
 
 .nav-menu-item-link {
