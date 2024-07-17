@@ -2,6 +2,10 @@
     font-family: 'Roboto-Mono', monospace;
 }
 
+body {
+    background-color: #555;
+}
+
 nav {
     display: flex;
 }
@@ -12,6 +16,15 @@ nav {
 
 .nav-menu-item {
     display: flex;
+    align-items: center;
+    height: 80px;
+    padding: 240px 20px;
+}
+
+.nav-menu-item-link {
+    text-decoration: none;
+    font-size: 22px;
+    color: #101010
 }
 
 #titulo-principal {
