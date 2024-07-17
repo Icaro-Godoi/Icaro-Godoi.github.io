@@ -1,0 +1,20 @@
+* {
+    font-family: 'Roboto-Mono', monospace;
+}
+
+nav {
+    display: flex;
+}
+
+.nav-menu {
+    display: flex;
+}
+
+.nav-menu-item {
+    display: flex;
+}
+
+#titulo-principal {
+    color: black;
+    font-size: 88px;
+}
